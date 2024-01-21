@@ -8,5 +8,9 @@ public class HelloWorld {
 		System.out.println("Sprint 1 work");
 	}
 	
-	
-}
+	public static void addSum() {
+		System.out.println("Sending to git");
+	}
+
+	}
+
