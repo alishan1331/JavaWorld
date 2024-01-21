@@ -16,4 +16,9 @@ public class HelloWorld {
 		System.out.println("go back to eclipse");
 
 	}
+	
+	void whyCommit(){
+		System.out.println("Why");
+		
+	}
 }
